@@ -1,3 +1,3 @@
 # trabalho_de_excluir_e_editar
 
-![imagem info](img/IMAG2.png) 
+![imagem info](imag/IMAG2.png) 
